@@ -1,3 +1,3 @@
-# Study Project(Udemy): ToDo app
+# Study Project(Udemy): Todo app
 
-## NodeJS app using typescript. No database.
+## Deno REST app using typescript and mongodb.
